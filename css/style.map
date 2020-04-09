@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"\n#main {\n  height: 100vh;\n  position: relative;\n  #meme {\n    width: 100%;\n    position: absolute;\n    color: red;\n    top: 50%; \n    transform: translateY(-50%);\n  }\n}\n\n\n"
+	],
+	"mappings": ";AACA,AAAA,KAAK,CAAC;EACJ,MAAM,EAAE,KAAM;EACd,QAAQ,EAAE,QAAS;CAQpB;;;AAVD,AAGE,KAHG,CAGH,KAAK,CAAC;EACJ,KAAK,EAAE,IAAK;EACZ,QAAQ,EAAE,QAAS;EACnB,KAAK,EAAE,GAAI;EACX,GAAG,EAAE,GAAI;EACT,SAAS,EAAE,gBAAU;CACtB",
+	"names": []
+}

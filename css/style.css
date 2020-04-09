@@ -1,0 +1,16 @@
+/* line 2, /Users/magnum/Dropbox/data/laba/biennio2_2019-20/molinari_antonio/covidmeme/scss/style.scss */
+#main {
+  height: 100vh;
+  position: relative;
+}
+
+/* line 5, /Users/magnum/Dropbox/data/laba/biennio2_2019-20/molinari_antonio/covidmeme/scss/style.scss */
+#main #meme {
+  width: 100%;
+  position: absolute;
+  color: red;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/*# sourceMappingURL=../css/style.map */

@@ -1,0 +1,14 @@
+
+#main {
+  height: 100vh;
+  position: relative;
+  #meme {
+    width: 100%;
+    position: absolute;
+    color: red;
+    top: 50%; 
+    transform: translateY(-50%);
+  }
+}
+
+
